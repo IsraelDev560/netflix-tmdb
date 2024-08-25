@@ -30,3 +30,6 @@ Ao clicar em um filme ou série, o usuário deverá ser direcionado a uma nova p
 
 React: Utilizar o React para construir a interface do usuário.
 API do TMDB: Utilizar a API do TMDB para buscar informações dos filmes e séries. Você precisará criar uma conta e obter uma chave de API gratuita.Roteamento: Utilizar o React Router para gerenciar as navegações entre a página inicial e a página de detalhes de cada título.
+
+## IMPORTANTE
+Para testar a aplicação será necessario utilizar uma key da API TMDB.
