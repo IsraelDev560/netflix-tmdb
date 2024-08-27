@@ -1,5 +1,4 @@
 import Logo from '../../assets/logo.png'
-import Lupa from '../../assets/lupa.svg'
 import { Outlet, Link } from "react-router-dom";
 import { useState } from 'react';
 export const Navbar = () => {
