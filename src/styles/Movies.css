@@ -200,6 +200,14 @@ main {
     width: 60%;
   }
 
+  .search-results {
+    margin-top: 100px;
+  }
+
+  .search-container{
+    max-width: 500px; 
+  }
+
   .MoviesContainer{
     max-width: 600px;
   }
@@ -231,8 +239,12 @@ main {
     margin-left: 20%;
   }
 
+  .search-container{
+    max-width: 400px; 
+  }
+
   .search-results {
-    margin-top: 180px;
+    margin-top: 130px;
   }
 
   main {
@@ -286,6 +298,10 @@ main {
   .filmes img {
     width: 80%;
     margin-left: 40px;
+  }
+
+  .search-container{
+    max-width: 300px; 
   }
 
   .SerieContainer {
